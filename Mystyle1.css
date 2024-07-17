@@ -1,0 +1,10 @@
+/* Resetting default browser styles */
+body, h1, h2, p, ul, li{ margin: 0; padding: 0;
+}
+body{ font-family: 'Times New Roman', Times, serif; }
+header{ background-color: paleturquoise; color: red; padding: 27px; }
+header h1{ margin: 0; }
+nav ul { list-style: none; }
+nav ul li { display: inline; margin-right: 20px; }
+nav ul li a { color: black; text-decoration: none; }
+section { padding: 20px; }

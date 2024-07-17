@@ -1,0 +1,31 @@
+/* CSS for Styling the Navigation Menu */
+nav{
+    background-color: rgba(226, 230, 8, 0.877);
+    color: black;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color: rgb(10, 8, 8);
+    text-decoration: none;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+section{
+    padding: 20px;
+}
+footer{
+    background-color: brown;
+    color: black;
+    text-align: center;
+    padding:10px 0;
+}
